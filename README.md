@@ -8,6 +8,7 @@ Puedes ver la aplicación en vivo [aquí](https://65caa72712299126ba04dd97--dcac
 
 ## Funcionalidades
 
+
 - Calcula el promedio de costos en dólares (DCA) para inversiones en Bitcoin.
 - Proporciona detalles sobre la variación del valor del Bitcoin, el monto invertido, el valor del portafolio y el cambio porcentual.
 - Ofrece una tabla detallada con información histórica.
